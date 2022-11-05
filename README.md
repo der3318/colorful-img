@@ -13,7 +13,7 @@ A python script to render image into different color styles.
 
 ### 📝 How to Use
 
-Setup the python environment via `python -m pip install -r requirements.txt` and simply invoke [generate.py](https://github.com/der3318/colorful-img/blob/main/generate.py) with the image file name or path. It will generate 13 colorful images under the same directory, with extension `.stype[01-13].[jpg/png]`.
+Setup the python environment via `python -m pip install -r requirements.txt` and simply invoke [generate.py](https://github.com/der3318/colorful-img/blob/main/generate.py) with the image file name or path. It will generate 13 colorful images under the same directory, with extension `.style[01-13].[jpg/png]`.
 
 <img src="/Images/Usage.png?raw=true">
 
